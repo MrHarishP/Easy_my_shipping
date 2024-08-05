@@ -1,2 +1,2 @@
 # Easy_my_shipping
-easy my shipping is a logistics 
+Easy My Shipping is a logistics company that specializes in air freight services. Leveraging partnerships with globally recognized carriers DHL and Aramex, Easy My Shipping ensures efficient and reliable delivery of shipments worldwide. With a focus on data research and management, the company optimizes logistics operations, providing streamlined solutions for their clients. Whether it's small parcels or large consignments, Easy My Shipping offers a comprehensive suite of services designed to meet diverse shipping needs with speed and precision. 
